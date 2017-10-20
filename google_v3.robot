@@ -8,7 +8,7 @@ ${BASE_URL}   https://www.google.co.th
 
 *** Testcases ***
 Search data
-  [Template]  Flow to find data in google2
+  [Template]  Flow to find data in google
   #-------------------------------------#
   #   Keyword     |     Expected Result |
   #-------------------------------------#
