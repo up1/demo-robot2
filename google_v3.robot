@@ -10,7 +10,7 @@ ${BASE_URL}   https://www.google.co.th
 Search data
   [Template]  Flow to find data in google
   #-------------------------------------#
-  #   Keyword     |     Expected result |
+  #   Keyword     |     Expected Result |
   #-------------------------------------#
       robot           Robot - Wikipedia
       หวย             ตรวจสลากกินแบ่งรัฐบาล
